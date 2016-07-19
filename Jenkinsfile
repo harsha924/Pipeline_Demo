@@ -2,3 +2,4 @@
 
 echo("Hello from Pipeline")
 echo ("test")
+echo ("Added new line"")
