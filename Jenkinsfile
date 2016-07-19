@@ -1,5 +1,3 @@
- //Print the paylod and Hello World
-import hudson.model.*
 echo("Hello from Pipeline")
 echo ("test")
 echo ("Added new line")
